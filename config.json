@@ -1,0 +1,16 @@
+{
+  "PROGMA": {
+    "LISTEN": "127.0.0.1",
+    "LISTENPORT": 10005,
+    "WHITELIST_ENABLE": false,
+    "WHITELIST": ["127.0.0.1"],
+    "MASTERKEY": "helloworld"
+  },
+  "DISCORD": {
+    "QUEUE_ENDPOINT": "https://messagepush.kerus.net/action/discord",
+    "CHANNEL_DEFAULT": "201744349094841132",
+    "TOMENTION_ADMINDEFAULT": "334483931590931934",
+    "IDENTIFIERKEY": "discordqueuetransmit",
+    "QUEUEKEY": "NX_LaJ8y8Z{Mgfc@DPx/3TG6MqyAX65"
+  }
+}
